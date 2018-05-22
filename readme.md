@@ -1,0 +1,1 @@
+This repository is a stub to allow for the publication of the `gh-pages` branches of other repositories.
